@@ -38,6 +38,8 @@ Cursor • Claude Code • GitHub Copilot
 
 # 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarashmul&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarashmul&layout=compact&theme=tokyonight)
 
 ---
