@@ -1,5 +1,5 @@
 # Hi, I’m Sara 👋  
-## Backend & DevOps Engineer | Cloud | AI | SaaS Systems
+## Backend & DevOps Engineer | Systems Analysis & Project Management | Cloud | AI | SaaS Systems
 
 ---
 
